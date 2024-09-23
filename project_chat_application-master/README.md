@@ -1,20 +1,23 @@
 # Realtime Chat Application
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+A real-time chat application built using [your preferred tech stack: React, Node.js, Socket.io, Firebase, etc.]. This app allows users to join chat rooms, send messages in real-time, and experience smooth communication with others.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Features
+Real-time Messaging: Instant chat with other users.
+User Authentication: Secure login and registration (using [authentication provider, e.g., JWT, Firebase Auth]).
+Multiple Chat Rooms: Users can join different rooms and chat separately.
+Private Messaging: Send direct messages to specific users.
+Message Notifications: Get notified when new messages arrive.
+Responsive Design: Works across all screen sizes.
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
 
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+
+
+made by SACHIN SINGH 
